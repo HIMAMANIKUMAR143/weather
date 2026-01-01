@@ -45,13 +45,7 @@ A selection of projects I’m proud of — replace these with your favorites:
 
 - Project One — A fast, accessible documentation template built with semantic HTML.
   - Highlights: Lightweight, keyboard-friendly navigation, high contrast mode
-  - Link: [Replace with project link](#)
-- Project Two — A responsive landing page pack for small businesses.
-  - Highlights: Mobile-first design, performance-optimized images
-  - Link: [Replace with project link](#)
-- Project Three — Tiny utility for generating accessible form patterns.
-  - Highlights: Reusable components, clear ARIA patterns
-  - Link: [Replace with project link](#)
+  - Link: [https://himamanikumar143.github.io/weather/weather.html](#)
 
 ---
 
