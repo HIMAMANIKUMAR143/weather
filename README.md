@@ -72,10 +72,9 @@ I contribute to small templates, accessibility guides, and community resources. 
 ## Contact
 I’m easy to reach — tell me what you’re working on or where I can help:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email:(bommanahimamanikumar@gmail.com)
 - GitHub: [github.com/HIMAMANIKUMAR143](https://github.com/HIMAMANIKUMAR143)
-- Twitter / X: [@yourhandle](https://twitter.com/yourhandle) (optional)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile) (optional)
+- LinkedIn: [Himamani Kumar Bommana](https://www.linkedin.com/in/himamani-kumar-bommana-414ab0325?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiOrN9ao7S8enHVzdovRIrA%3D%3D) (optional)
 
 ---
 
